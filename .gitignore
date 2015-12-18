@@ -60,7 +60,6 @@ local.properties
 
 #querydsl
 src/main/querydsl/
-WEB-INF
 
 #test
 innoquartz/attache-file
